@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.rahuldeveloper28.MoneyRecord"
     },
     "web": {
       "favicon": "./assets/favicon.png"
